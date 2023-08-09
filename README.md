@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kikuuchi&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=kikuuchi&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuuchi&layout=compact&theme=dracula" />
+  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikuuchi&layout=compact&theme=dracula" />
 </a>
